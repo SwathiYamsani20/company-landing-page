@@ -1,0 +1,47 @@
+.service-img{
+    height: 400px;
+    width: 500px;
+    margin:-10px 0px 0px 50px;
+   
+}
+.form{
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.submit-btn{
+    margin-left: 180px;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    padding:10px 30px ;
+}
+.email-btn{
+    padding:10px 95px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.chat-btn{
+    margin-right: 25px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+.call-btn{
+    padding: 10px 30px;
+    color: white;
+    background-color: black;
+}
+button{
+    border-radius: 4px;
+    background-color: white;
+}
+input{
+    margin:10px;
+    padding: 10px 70px;
+}
+.text{
+    padding:20px
+}
